@@ -23,17 +23,6 @@ class rs(KMeans):
             kwargs: arguments for scikit-learns KMeans """
             
         super().__init__(n_init=n_init,  init='random', **kwargs)
-        
-    def get_error(self, X, C):
-        """compute error per centroid"""
-        # squared distances between data and centroids
-        dist = cdist(X, C, metric="sqeuclidean")
-        # indices to nearest centroid
-        dist_min = np.argmin(dist,axis=1)
-        # distances to nearest centroid
-        d1 = dist[np.arange(len(X)), dist_min]
-        # aggregate error for each centroid
-        return np.array([np.sum(d1[dist_min==i]) for i in range(len(C))])
 
     def _kmeans(self,C,X):
         """perform kmeans algorithm"""
