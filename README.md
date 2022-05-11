@@ -1,4 +1,4 @@
-# Random-Swap-Clustering-Algorithm
+# Random Swap Clustering Algorithm
 Random swap is a kmeans variant that does not stuck in local optima and finds the optimal partitions by removing a random centroid and adding a random centroid. This strategy work pretty well. You just need to book keep the successful swaps where distortion value reduced further. 
 
 ## Example 1: running on simple random data set
