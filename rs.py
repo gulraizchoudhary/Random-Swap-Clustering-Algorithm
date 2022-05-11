@@ -10,7 +10,7 @@ from sklearn.cluster import KMeans
 import random as rand
 
 
-__version__="V1.1"
+__version__="V1.0"
 
 class rs(KMeans):
     def get_version():
