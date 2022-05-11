@@ -6,9 +6,7 @@
 # X: data set
 # C: centroids
 
-import numpy as np
 from sklearn.cluster import KMeans
-from scipy.spatial.distance import cdist
 import random as rand
 
 
