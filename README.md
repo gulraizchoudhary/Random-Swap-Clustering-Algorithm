@@ -35,7 +35,7 @@ SSE improvement over k-means: 5.11%
 SSE improvement over k-means: 5.42%
 ```
 ## Acknowledgements
-Credit goes to the scikit-learn team for their excellent sklearn.cluster.KMeans class.
+Credit goes to Pasi Fränt, You may consider to read his paper "Efciency of random swap clustering", also credit to the scikit-learn team for their excellent sklearn.cluster.KMeans class.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
