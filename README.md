@@ -34,5 +34,8 @@ SSE improvement over k-means: 5.23%
 SSE improvement over k-means: 5.11%
 SSE improvement over k-means: 5.42%
 ```
+## Acknowledgements
+Credit goes to the scikit-learn team for their excellent sklearn.cluster.KMeans class.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
