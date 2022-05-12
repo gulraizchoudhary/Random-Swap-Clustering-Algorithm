@@ -35,7 +35,19 @@ SSE improvement over k-means: 5.79%
 ```
 ## Visuals
 !["Kmeans results on iteration: 0"](https://github.com/gulraizchoudhary/Random-Swap-Clustering-Algorithm/blob/main/img/km_0.png)
+!["Random Swap results on iteration: 0"](https://github.com/gulraizchoudhary/Random-Swap-Clustering-Algorithm/blob/main/img/rs_0.png)
 
+!["Kmeans results on iteration: 1"](https://github.com/gulraizchoudhary/Random-Swap-Clustering-Algorithm/blob/main/img/km_1.png)
+!["Random Swap results on iteration: 1"](https://github.com/gulraizchoudhary/Random-Swap-Clustering-Algorithm/blob/main/img/rs_1.png)
+
+!["Kmeans results on iteration: 2"](https://github.com/gulraizchoudhary/Random-Swap-Clustering-Algorithm/blob/main/img/km_2.png)
+!["Random Swap results on iteration: 2"](https://github.com/gulraizchoudhary/Random-Swap-Clustering-Algorithm/blob/main/img/rs_2.png)
+
+!["Kmeans results on iteration: 3"](https://github.com/gulraizchoudhary/Random-Swap-Clustering-Algorithm/blob/main/img/km_3.png)
+!["Random Swap results on iteration: 3"](https://github.com/gulraizchoudhary/Random-Swap-Clustering-Algorithm/blob/main/img/rs_3.png)
+
+!["Kmeans results on iteration: 4"](https://github.com/gulraizchoudhary/Random-Swap-Clustering-Algorithm/blob/main/img/km_4.png)
+!["Random Swap results on iteration: 4"](https://github.com/gulraizchoudhary/Random-Swap-Clustering-Algorithm/blob/main/img/rs_4.png)
 ## Example 2: Random swap relative SSE improvements over kmeans++ using random dataset
 ```python
 
