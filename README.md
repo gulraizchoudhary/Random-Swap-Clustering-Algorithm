@@ -33,6 +33,8 @@ SSE improvement over k-means: 3.73%
 SSE improvement over k-means: 1.93%
 SSE improvement over k-means: 5.79%
 ```
+## Visuals
+!["Kmeans results on iteration: 0"](https://github.com/gulraizchoudhary/Random-Swap-Clustering-Algorithm/blob/main/img/km_0.png)
 
 ## Example 2: Random swap relative SSE improvements over kmeans++ using random dataset
 ```python
