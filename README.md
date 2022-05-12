@@ -27,11 +27,11 @@ for i in range(5):
 ```
 ## Output
 ```bash
-SSE improvement over k-means: 6.31%
-SSE improvement over k-means: 6.89%
-SSE improvement over k-means: 5.23%
-SSE improvement over k-means: 5.11%
-SSE improvement over k-means: 5.42%
+SSE improvement over k-means: 4.51%
+SSE improvement over k-means: 3.10%
+SSE improvement over k-means: 3.73%
+SSE improvement over k-means: 1.93%
+SSE improvement over k-means: 5.79%
 ```
 
 ## Example 2: Random swap relative SSE improvements over kmeans++ using random dataset
