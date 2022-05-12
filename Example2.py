@@ -14,7 +14,7 @@ X=np.random.rand(1000,2)
 
 # number of centroids
 k=100
-swaps = 100000
+swaps = 20000
 
 for i in range(5):
     randomSwap = rs(n_clusters=k).fit(X, swaps)
